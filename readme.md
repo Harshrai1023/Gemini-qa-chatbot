@@ -9,7 +9,7 @@ This Python code provides a simple Streamlit interface for interacting with Goog
 Before running the code, make sure to set up the required dependencies:
 
 - **Streamlit:** The user interface is built using Streamlit, a popular Python library for creating web applications with minimal code.
-- **Google Gemini-Pro API:** To use the Gemini-Pro model, you need to obtain an API key and configure it using the `GOOGLE_GEMINI_KEY` environment variable.
+- **Google Gemini-Pro API:** To use the Gemini-Pro model, you need to obtain an API key from [Here](https://makersuite.google.com/app/apikey) and configure it using the `GOOGLE_GEMINI_KEY` environment variable.
 - **dotenv:** The `dotenv` library is used for loading environment variables from a file.
 
 ## Installation
